@@ -1,6 +1,6 @@
 # Recommender Systems
 
-This repository contains the implementation of various recommender system techniques as part of the course assignments/projectwork.
+This repository contains the implementation of various recommender system techniques as part of course assignments/projectwork.
 The work includes collaborative filtering, group recommendations, sequential recommendations, and explanations for "why not" questions in group recommendations.
 
 ## Files
